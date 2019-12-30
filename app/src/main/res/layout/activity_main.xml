@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <com.example.autolongitudinalrollingtext.AutoLongitudinalRollingText
+        android:layout_width="50dp"
+        android:layout_height="220dp"
+        android:gravity="center"
+        android:text="纵向滚动测试"
+        android:textColor="@color/colorAccent"
+        android:textSize="30dp" />
+
+</LinearLayout>
