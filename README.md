@@ -6,4 +6,4 @@
 Vertical auto scrolling textview
 
 The dynamic picture is as follows. If you are satisfied, please leave your heart behind. Thank you
-![img](https://github.com/oyd5201/AutoLongitudinalRollingText/tree/master/images/test.gif)
+![image](https://github.com/oyd5201/AutoLongitudinalRollingText/tree/master/images/test.gif)
